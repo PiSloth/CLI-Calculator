@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "kabukii_0.1.1.ConsoleApp/1.0.0": {
+        "runtime": {
+          "kabukii_0.1.1.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kabukii_0.1.1.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

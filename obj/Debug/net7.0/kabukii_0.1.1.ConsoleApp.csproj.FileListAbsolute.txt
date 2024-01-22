@@ -1,0 +1,15 @@
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\bin\Debug\net7.0\kabukii_0.1.1.ConsoleApp.exe
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\bin\Debug\net7.0\kabukii_0.1.1.ConsoleApp.deps.json
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\bin\Debug\net7.0\kabukii_0.1.1.ConsoleApp.runtimeconfig.json
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\bin\Debug\net7.0\kabukii_0.1.1.ConsoleApp.dll
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\bin\Debug\net7.0\kabukii_0.1.1.ConsoleApp.pdb
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.AssemblyInfoInputs.cache
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.AssemblyInfo.cs
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.sourcelink.json
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.dll
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\refint\kabukii_0.1.1.ConsoleApp.dll
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.pdb
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.genruntimeconfig.cache
+D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\ref\kabukii_0.1.1.ConsoleApp.dll
