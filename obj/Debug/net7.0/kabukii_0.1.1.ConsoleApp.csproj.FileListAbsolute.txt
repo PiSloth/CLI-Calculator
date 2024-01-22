@@ -7,7 +7,6 @@ D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\ka
 D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.AssemblyInfoInputs.cache
 D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.AssemblyInfo.cs
 D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.csproj.CoreCompileInputs.cache
-D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.sourcelink.json
 D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.dll
 D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\refint\kabukii_0.1.1.ConsoleApp.dll
 D:\WebProj\kabukii_0.1.1.ConsoleApp\kabukii_0.1.1.ConsoleApp\obj\Debug\net7.0\kabukii_0.1.1.ConsoleApp.pdb
